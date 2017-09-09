@@ -10,7 +10,7 @@ https://stackoverflow.com/questions/41901115/selenium-ide-3-0-1-run-selenium-ide
 a = np.arange(2300,4900,120)
 b = np.arange(2301,4900,120)
 for i in range(0,len(a)-1):
-	print(b[i],a[i+1],(a[i+1]-b[i])+1)
+	print('{0:04d}'.format(b[i]),'{0:04d}'.format(a[i+1]),(a[i+1]-b[i])+1)
 </pre>
 
 
