@@ -2,6 +2,7 @@
 JavaでSSL証明書の検証無効化、ホスト名検証の無効化…とデバッグAdd Star
 http://d.hatena.ne.jp/Kazuhira/20141004/1412441208
 
+selenium IDEで作ったテストケースでchrome,IEでもテストをする。
 http://qiita.com/takky/items/9a2c1dc36c1a729c56cb
 
 Selenium IDE 3.0.1 - run Selenium IDE script in different browser
