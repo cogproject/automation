@@ -1,4 +1,6 @@
-# automation
+# Link
+JavaでSSL証明書の検証無効化、ホスト名検証の無効化…とデバッグAdd Star
+http://d.hatena.ne.jp/Kazuhira/20141004/1412441208
 
 http://qiita.com/takky/items/9a2c1dc36c1a729c56cb
 
@@ -21,6 +23,8 @@ for i in range(0,len(query)):
     except ValueError:
      print("no value")
 </pre>
+
+
 
 
 
