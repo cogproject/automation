@@ -1,0 +1,14 @@
+from selenium import webdriver
+from selenium import webdriver.common.keys import Keys
+
+browser = webdriver.Firefox()
+
+browser.get('https://xxxx')
+email_elem = browser.find_element_by_id('ID')
+email_elem.send_keys('****')
+password_elem = browser.find_element_by_id('Pass')
+password_elem.send_keys('****')
+password_elem.send_keys(Keys.ENTER)
+
+
+
